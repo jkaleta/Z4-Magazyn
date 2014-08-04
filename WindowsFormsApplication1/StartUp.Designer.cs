@@ -34,6 +34,11 @@
             this.bExit = new System.Windows.Forms.Button();
             this.gbxResults = new System.Windows.Forms.GroupBox();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
+            this.number = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this._Height = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Nofream = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.space = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Szczegóły = new System.Windows.Forms.DataGridViewButtonColumn();
             this.bStart = new System.Windows.Forms.Button();
             this.tab_Conf = new System.Windows.Forms.TabPage();
             this.gbxConfig = new System.Windows.Forms.GroupBox();
@@ -131,11 +136,6 @@
             this.check3_Store = new System.Windows.Forms.CheckBox();
             this.check2_Store = new System.Windows.Forms.CheckBox();
             this.check1_Store = new System.Windows.Forms.CheckBox();
-            this.number = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this._Height = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Nofream = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.space = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Szczegóły = new System.Windows.Forms.DataGridViewButtonColumn();
             this.tabs.SuspendLayout();
             this.tab_Program.SuspendLayout();
             this.gbxProgram.SuspendLayout();
@@ -150,6 +150,9 @@
             // 
             // tabs
             // 
+            this.tabs.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.tabs.Controls.Add(this.tab_Program);
             this.tabs.Controls.Add(this.tab_Conf);
             this.tabs.Location = new System.Drawing.Point(3, 2);
@@ -171,6 +174,9 @@
             // 
             // gbxProgram
             // 
+            this.gbxProgram.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.gbxProgram.Controls.Add(this.bExit);
             this.gbxProgram.Controls.Add(this.gbxResults);
             this.gbxProgram.Controls.Add(this.bStart);
@@ -194,6 +200,9 @@
             // 
             // gbxResults
             // 
+            this.gbxResults.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.gbxResults.Controls.Add(this.dataGridView1);
             this.gbxResults.Location = new System.Drawing.Point(256, 11);
             this.gbxResults.Name = "gbxResults";
@@ -204,7 +213,9 @@
             // 
             // dataGridView1
             // 
-            this.dataGridView1.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Left | System.Windows.Forms.AnchorStyles.Right)));
+            this.dataGridView1.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dataGridView1.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
             this.number,
@@ -214,10 +225,45 @@
             this.Szczegóły});
             this.dataGridView1.Location = new System.Drawing.Point(19, 23);
             this.dataGridView1.Name = "dataGridView1";
-            this.dataGridView1.Size = new System.Drawing.Size(547, 372);
+            this.dataGridView1.Size = new System.Drawing.Size(558, 403);
             this.dataGridView1.TabIndex = 1;
             this.dataGridView1.Visible = false;
             this.dataGridView1.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellContentClick);
+            // 
+            // number
+            // 
+            this.number.Frozen = true;
+            this.number.HeaderText = "Nr rozwiązania";
+            this.number.Name = "number";
+            this.number.ReadOnly = true;
+            this.number.Width = 105;
+            // 
+            // _Height
+            // 
+            this._Height.Frozen = true;
+            this._Height.HeaderText = "Nazwa";
+            this._Height.Name = "_Height";
+            this._Height.ReadOnly = true;
+            // 
+            // Nofream
+            // 
+            this.Nofream.HeaderText = "Liczba ryz";
+            this.Nofream.Name = "Nofream";
+            this.Nofream.ReadOnly = true;
+            // 
+            // space
+            // 
+            this.space.HeaderText = "Wolne miejsce [mm]";
+            this.space.Name = "space";
+            this.space.ReadOnly = true;
+            // 
+            // Szczegóły
+            // 
+            this.Szczegóły.HeaderText = "Szczegóły";
+            this.Szczegóły.Name = "Szczegóły";
+            this.Szczegóły.Text = "Zobacz....";
+            this.Szczegóły.UseColumnTextForButtonValue = true;
+            this.Szczegóły.Width = 70;
             // 
             // bStart
             // 
@@ -1116,41 +1162,6 @@
             this.check1_Store.Size = new System.Drawing.Size(15, 14);
             this.check1_Store.TabIndex = 8;
             this.check1_Store.UseVisualStyleBackColor = true;
-            // 
-            // number
-            // 
-            this.number.Frozen = true;
-            this.number.HeaderText = "Nr rozwiązania";
-            this.number.Name = "number";
-            this.number.ReadOnly = true;
-            this.number.Width = 105;
-            // 
-            // _Height
-            // 
-            this._Height.Frozen = true;
-            this._Height.HeaderText = "Nazwa";
-            this._Height.Name = "_Height";
-            this._Height.ReadOnly = true;
-            // 
-            // Nofream
-            // 
-            this.Nofream.HeaderText = "Liczba ryz";
-            this.Nofream.Name = "Nofream";
-            this.Nofream.ReadOnly = true;
-            // 
-            // space
-            // 
-            this.space.HeaderText = "Wolne miejsce [mm]";
-            this.space.Name = "space";
-            this.space.ReadOnly = true;
-            // 
-            // Szczegóły
-            // 
-            this.Szczegóły.HeaderText = "Szczegóły";
-            this.Szczegóły.Name = "Szczegóły";
-            this.Szczegóły.Text = "Zobacz....";
-            this.Szczegóły.UseColumnTextForButtonValue = true;
-            this.Szczegóły.Width = 70;
             // 
             // StartUp
             // 

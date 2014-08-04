@@ -116,3 +116,14 @@ C:\Users\Moje_konto\Music\Z4-Magazyn\WindowsFormsApplication1\obj\x86\Debug\Wind
 C:\Users\Moje_konto\Music\Z4-Magazyn\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
 C:\Users\Moje_konto\Music\Z4-Magazyn\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ResultView.resources
 C:\Users\Moje_konto\Music\Z4-Magazyn\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\FS\Personal Data\GitHub\Z4-Magazyn\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\FS\Personal Data\GitHub\Z4-Magazyn\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\FS\Personal Data\GitHub\Z4-Magazyn\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\FS\Personal Data\GitHub\Z4-Magazyn\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\FS\Personal Data\GitHub\Z4-Magazyn\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\FS\Personal Data\GitHub\Z4-Magazyn\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Details.resources
+C:\FS\Personal Data\GitHub\Z4-Magazyn\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.StartUp.resources
+C:\FS\Personal Data\GitHub\Z4-Magazyn\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Progress.resources
+C:\FS\Personal Data\GitHub\Z4-Magazyn\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\FS\Personal Data\GitHub\Z4-Magazyn\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ResultView.resources
+C:\FS\Personal Data\GitHub\Z4-Magazyn\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
