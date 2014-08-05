@@ -1,0 +1,120 @@
+C:\Users\praktykant_k027\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\praktykant_k027\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\praktykant_k027\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Menu.resources
+C:\Users\praktykant_k027\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\praktykant_k027\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\praktykant_k027\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\praktykant_k027\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\praktykant_k027\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Konfiguracja.resources
+C:\Users\praktykant_k027\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Magazyn.resources
+C:\Users\praktykant_k027\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Panele.resources
+C:\Users\praktykant_k027\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Zaawansowane.resources
+C:\Users\praktykant_k027\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\praktykant_k027\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\praktykant_k027\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\praktykant_k027\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\praktykant_k027\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Konfiguracja.resources
+C:\Users\praktykant_k027\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Magazyn.resources
+C:\Users\praktykant_k027\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Menu.resources
+C:\Users\praktykant_k027\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Panele.resources
+C:\Users\praktykant_k027\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\praktykant_k027\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Zaawansowane.resources
+C:\Users\praktykant_k027\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\praktykant_k027\Documents\Visual Studio 2010\Projects\Okienka\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\praktykant_k027\Documents\Visual Studio 2010\Projects\Okienka\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\praktykant_k027\Documents\Visual Studio 2010\Projects\Okienka\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\praktykant_k027\Documents\Visual Studio 2010\Projects\Okienka\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\praktykant_k027\Documents\Visual Studio 2010\Projects\Okienka\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Konfiguracja.resources
+C:\Users\praktykant_k027\Documents\Visual Studio 2010\Projects\Okienka\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Magazyn.resources
+C:\Users\praktykant_k027\Documents\Visual Studio 2010\Projects\Okienka\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Menu.resources
+C:\Users\praktykant_k027\Documents\Visual Studio 2010\Projects\Okienka\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Panele.resources
+C:\Users\praktykant_k027\Documents\Visual Studio 2010\Projects\Okienka\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\praktykant_k027\Documents\Visual Studio 2010\Projects\Okienka\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Zaawansowane.resources
+C:\Users\praktykant_k027\Documents\Visual Studio 2010\Projects\Okienka\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+G:\Okienka\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+G:\Okienka\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+G:\Okienka\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Konfiguracja.resources
+G:\Okienka\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Magazyn.resources
+G:\Okienka\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Menu.resources
+G:\Okienka\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Panele.resources
+G:\Okienka\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+G:\Okienka\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Zaawansowane.resources
+G:\Okienka\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+G:\Okienka\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+G:\Okienka\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\praktykant_k027\Documents\Visual Studio 2010\Projects\Okienka\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Results.resources
+C:\Users\praktykant_k027\Documents\Visual Studio 2010\Projects\Okienka\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\praktykant_k027\Documents\Visual Studio 2010\Projects\Okienka\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Progress.resources
+C:\Users\praktykant_k027\Documents\Visual Studio 2010\Projects\Okienka\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ResultView.resources
+C:\Users\Moje_konto\Desktop\Okienka_1_08_v1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Moje_konto\Desktop\Okienka_1_08_v1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Moje_konto\Desktop\Okienka_1_08_v1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Moje_konto\Desktop\Okienka_1_08_v1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Konfiguracja.resources
+C:\Users\Moje_konto\Desktop\Okienka_1_08_v1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Magazyn.resources
+C:\Users\Moje_konto\Desktop\Okienka_1_08_v1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Menu.resources
+C:\Users\Moje_konto\Desktop\Okienka_1_08_v1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Panele.resources
+C:\Users\Moje_konto\Desktop\Okienka_1_08_v1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Progress.resources
+C:\Users\Moje_konto\Desktop\Okienka_1_08_v1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Moje_konto\Desktop\Okienka_1_08_v1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Results.resources
+C:\Users\Moje_konto\Desktop\Okienka_1_08_v1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ResultView.resources
+C:\Users\Moje_konto\Desktop\Okienka_1_08_v1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Zaawansowane.resources
+C:\Users\Moje_konto\Desktop\Okienka_1_08_v1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Moje_konto\Desktop\Okienka_1_08_v1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Moje_konto\Desktop\Okienka_1_08_v1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Moje_konto\Desktop\Okienka_1_08_v1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Main.resources
+C:\Users\Moje_konto\Desktop\Okienka_1_08_v1\WindowsFormsApplication1\bin\Debug\Core.dll
+C:\Users\Moje_konto\Desktop\Okienka_1_08_v1\WindowsFormsApplication1\bin\Debug\Core.pdb
+C:\Users\Moje_konto\Desktop\Okienka_1_08_v1\Okienka-v1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Moje_konto\Desktop\Okienka_1_08_v1\Okienka-v1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Moje_konto\Desktop\Okienka_1_08_v1\Okienka-v1\WindowsFormsApplication1\bin\Debug\Core.dll
+C:\Users\Moje_konto\Desktop\Okienka_1_08_v1\Okienka-v1\WindowsFormsApplication1\bin\Debug\Core.pdb
+C:\Users\Moje_konto\Desktop\Okienka_1_08_v1\Okienka-v1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Moje_konto\Desktop\Okienka_1_08_v1\Okienka-v1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Konfiguracja.resources
+C:\Users\Moje_konto\Desktop\Okienka_1_08_v1\Okienka-v1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Magazyn.resources
+C:\Users\Moje_konto\Desktop\Okienka_1_08_v1\Okienka-v1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Menu.resources
+C:\Users\Moje_konto\Desktop\Okienka_1_08_v1\Okienka-v1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Panele.resources
+C:\Users\Moje_konto\Desktop\Okienka_1_08_v1\Okienka-v1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Progress.resources
+C:\Users\Moje_konto\Desktop\Okienka_1_08_v1\Okienka-v1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Moje_konto\Desktop\Okienka_1_08_v1\Okienka-v1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Results.resources
+C:\Users\Moje_konto\Desktop\Okienka_1_08_v1\Okienka-v1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ResultView.resources
+C:\Users\Moje_konto\Desktop\Okienka_1_08_v1\Okienka-v1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Zaawansowane.resources
+C:\Users\Moje_konto\Desktop\Okienka_1_08_v1\Okienka-v1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Moje_konto\Desktop\Okienka_1_08_v1\Okienka-v1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Moje_konto\Desktop\Okienka_1_08_v1\Okienka-v1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\praktykant_k027\Documents\Visual Studio 2010\Projects\Okienka_1_08_v1\Okienka-v1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\praktykant_k027\Documents\Visual Studio 2010\Projects\Okienka_1_08_v1\Okienka-v1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\praktykant_k027\Documents\Visual Studio 2010\Projects\Okienka_1_08_v1\Okienka-v1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\praktykant_k027\Documents\Visual Studio 2010\Projects\Okienka_1_08_v1\Okienka-v1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\praktykant_k027\Documents\Visual Studio 2010\Projects\Okienka_1_08_v1\Okienka-v1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\praktykant_k027\Documents\Visual Studio 2010\Projects\Okienka_1_08_v1\Okienka-v1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Progress.resources
+C:\Users\praktykant_k027\Documents\Visual Studio 2010\Projects\Okienka_1_08_v1\Okienka-v1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\praktykant_k027\Documents\Visual Studio 2010\Projects\Okienka_1_08_v1\Okienka-v1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ResultView.resources
+C:\Users\praktykant_k027\Documents\Visual Studio 2010\Projects\Okienka_1_08_v1\Okienka-v1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\praktykant_k027\Documents\Visual Studio 2010\Projects\Okienka_1_08_v1\Okienka-v1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.StartUp.resources
+C:\Users\praktykant_k027\Documents\Visual Studio 2010\Projects\Okienka_1_08_v1\Okienka-v1\WindowsFormsApplication1\bin\Debug\Algorytm Genetyczny.exe
+C:\Users\praktykant_k027\Documents\Visual Studio 2010\Projects\Okienka_1_08_v1\Okienka-v1\WindowsFormsApplication1\bin\Debug\Algorytm Genetyczny.pdb
+C:\Users\praktykant_k027\Documents\Visual Studio 2010\Projects\Okienka_1_08_v1\Okienka-v1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Details.resources
+G:\Nowy folder\Okienka_1_08_v1\Okienka-v1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+G:\Nowy folder\Okienka_1_08_v1\Okienka-v1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+G:\Nowy folder\Okienka_1_08_v1\Okienka-v1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+G:\Nowy folder\Okienka_1_08_v1\Okienka-v1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+G:\Nowy folder\Okienka_1_08_v1\Okienka-v1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+G:\Nowy folder\Okienka_1_08_v1\Okienka-v1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Details.resources
+G:\Nowy folder\Okienka_1_08_v1\Okienka-v1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.StartUp.resources
+G:\Nowy folder\Okienka_1_08_v1\Okienka-v1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Progress.resources
+G:\Nowy folder\Okienka_1_08_v1\Okienka-v1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+G:\Nowy folder\Okienka_1_08_v1\Okienka-v1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ResultView.resources
+G:\Nowy folder\Okienka_1_08_v1\Okienka-v1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Moje_konto\Music\Z4-Magazyn\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Moje_konto\Music\Z4-Magazyn\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Moje_konto\Music\Z4-Magazyn\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Moje_konto\Music\Z4-Magazyn\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Moje_konto\Music\Z4-Magazyn\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Moje_konto\Music\Z4-Magazyn\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Details.resources
+C:\Users\Moje_konto\Music\Z4-Magazyn\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.StartUp.resources
+C:\Users\Moje_konto\Music\Z4-Magazyn\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Progress.resources
+C:\Users\Moje_konto\Music\Z4-Magazyn\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Moje_konto\Music\Z4-Magazyn\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ResultView.resources
+C:\Users\Moje_konto\Music\Z4-Magazyn\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Moje_konto\Desktop\Z4-Magazyn\Z4-Magazyn\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Moje_konto\Desktop\Z4-Magazyn\Z4-Magazyn\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
